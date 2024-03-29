@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ecg.zshipu.com/about/</loc>
+    <lastmod>2015-03-10T00:13:27+00:00</lastmod>
+  </url><url>
+    <loc>https://ecg.zshipu.com/categories/</loc>
+  </url><url>
+    <loc>https://ecg.zshipu.com/tags/</loc>
+  </url><url>
+    <loc>https://ecg.zshipu.com/archives/</loc>
+  </url><url>
+    <loc>https://ecg.zshipu.com/</loc>
+  </url><url>
+    <loc>https://ecg.zshipu.com/search/</loc>
+  </url>
+</urlset>
